@@ -1,0 +1,9 @@
+# System Metadata
+.DS_Store
+
+# Build Artifacts
+build/*
+!build/.gitkeep
+*.out
+*.dSYM
+
