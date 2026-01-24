@@ -5,7 +5,6 @@
 
 int main() {
     setup_io();
-
     // --- code ---
 
     TIME;
