@@ -5,7 +5,6 @@ Competitive programming solutions and algorithm library.
 ## Platforms
 
 * AtCoder
-* LeetCode
 
 ## Languages
 
