@@ -18,11 +18,14 @@ all: run
 
 run: $(TARGET)
 	@echo "[RUN] File Input"
-	$(TARGET) < $(INPUT)
+	@echo "--------------------------------------------------"
+	@$(TARGET) < $(INPUT)
+	@echo "\n--------------------------------------------------"
 r: run
 
 manual: $(TARGET)
 	@echo "[MANUAL] TTY Input"
+	@echo "--------------------------------------------------"
 	$(TARGET)
 m: manual
 
