@@ -2,6 +2,8 @@
 // #include "my_utils.hpp" 
 // #include "my_ds.hpp"
 // #include "my_algo.hpp"
+// #include <atcoder/all>
+// using namespace atcoder;
 
 int main() {
     setup_io();
